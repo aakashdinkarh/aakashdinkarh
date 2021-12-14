@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aakash Dinkar
-- 👀 I’m interested in Front-end Development
-- 🌱 I have learned HTML, CSS, JavaScript, jQuery and currently learning React.
-- 📫 Currently, I'm doing an internship as a front-end developer.
-
+- 👀 I’m interested in Web-Development,Data Structure and Algorithms, Programming, SDE.
+- 🌱 My key skills are HTML5, CSS3, JavaScript, jQuery, C++, DataStructure and Algorithms (DSA), React
+- 🌱 Other skill - Typing Speed upto 50 wpm
+- 📫 I've done an internship as a Web-Developer(Frontend role) at Web-Student for 3 months(June'21 - Aug'21), lead a team of 5 members
+- 📫 I'm currently looking to exlore to the Full-stack development.
