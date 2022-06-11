@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aakash Dinkar
-- 👀 I’m interested in Web-Development,Data Structure and Algorithms, Programming, SDE.
-- 🌱 My key skills are HTML5, CSS3, JavaScript, jQuery, C++, DataStructure and Algorithms (DSA), React
+- 👀 I’m interested in Web-Development, Data Structure and Algorithms, Programming, SDE.
+- 🌱 My key skills are HTML5, CSS3, JavaScript, jQuery, C++, DataStructure and Algorithms (DSA), React.js, Git & GitHub
 - 🌱 Other skill - Typing Speed upto 50 wpm
-- 📫 I've done an internship as a Web-Developer(Frontend role) at Web-Student for 3 months(June'21 - Aug'21), lead a team of 5 members
-- 📫 I'm currently looking to exlore to the Full-stack development.
+- 📫 I've done an internship as a Web-Developer(Frontend role) at Web-Student for 3 months(June'21 - Aug'21), lead a team of 5 members.
+- 📫 Develop responsive web desgins, write resuable codes for future use, include different types of functionality in site to make the site more functional, interactive and enhance user experience.
