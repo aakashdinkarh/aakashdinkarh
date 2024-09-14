@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aakash Dinkar
-- 👀 I’m interested in Web-Development, Data Structure and Algorithms, Programming, SDE.
-- 🌱 My key skills are HTML, CSS, JavaScript, jQuery, React.js, Next.js Git & GitHub
-- 🌱 Other skill - Typing Speed 50+ wpm
-- 📫 I've done an internship as a Web-Developer(Frontend role) at Web-Student for 3 months(June'21 - Aug'21), lead a team of 5 members.
-- 📫 I worked at Cogoport as SDE-1 Full time from July'22 to Sep'23'.
-- 📫 I develop responsive web desgins, write resuable codes for future use, include different types of functionality in site to make the site more functional, interactive and enhance user experience.
+- 👀 I’m interested in Web-Development.
+- 🌱 My key skills are JavsScript, TypeScript, ReactJS, NextJS, Redux, NodeJS, HTML, CSS, Git & GitHub
+- 🌱 Other skill - Styled-Components, React Hook Form, Responsive Web Design, Web Performance, SEO.
 - 📫 Currently, I'm employed full time at Meesho, as an SDE-1 from Oct'23.
+- 📫 I worked at Cogoport as SDE-1 Full time from July'22 to Sep'23'.
+- 📫 Internship - Web-Developer(Frontend role) at Web-Student for 3 months(June'21 - Aug'21), lead a team of 5 members.
+- 📫 Experienced front-end developer skilled in creating responsive, performance optimized, user-friendly interfaces for web applications. Passionate about user experience design, I aim to craft visually appealing and intuitive interfaces that elevate the user's experience.
