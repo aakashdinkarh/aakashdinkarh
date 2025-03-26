@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdinkarh&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aakashdinkarh&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
