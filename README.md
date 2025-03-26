@@ -1,9 +1,12 @@
+# Hi 👋, I'm Aakash Dinkar
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F68B21&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aakash+Dinkar;Senior+Frontend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-<img align="right" src="https://aakashdinkarh.github.io/static_assets/images/portfolio/avif-images/portfolio.avif" width="300" alt="Aakash Dinkar" style="border-radius: 10px;" />
-
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 </h2>
@@ -12,14 +15,22 @@
 🌱 Passionate about creating performant & beautiful web experiences  
 🎯 Focused on **Frontend Development** and **UI/UX Design**  
 📚 Always learning and exploring new technologies
+</td>
+<td width="40%" align="center">
+<img src="https://aakashdinkarh.github.io/static_assets/images/portfolio/avif-images/portfolio.avif" width="200" alt="Aakash Dinkar" style="border-radius: 10px;" />
+</td>
+</tr>
+</table>
 
 ### 🎓 Experience
+
 - 🏢 **Meesho** - SDE-2 (Jan'25 - Present)
 - 🏢 **Meesho** - SDE-1 (Oct'23 - Dec'24)
 - 🏢 **Cogoport** - SDE-1 (July'22 - Sep'23)
 - 🎯 **Web-Student** - Frontend Developer Intern (June'21 - Aug'21)
 
 ### 💡 What I Do Best
+
 - 🎨 Crafting responsive & intuitive user interfaces
 - 🚀 Optimizing web performance & SEO
 - 🛠️ Building scalable frontend architectures
@@ -40,6 +51,7 @@
 ## 💻 Tech Stack
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,15 +61,18 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### UI/UX & Styling
+
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ### Backend & Tools
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### Version Control & Deployment
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -127,16 +142,19 @@
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdinkarh&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ### ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
+
 <div align="center">
   <picture>
     <!-- Primary counter -->
