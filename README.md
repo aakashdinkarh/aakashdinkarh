@@ -66,12 +66,64 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=aakashdinkarh&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=aakashdinkarh&theme=default&hide_border=false&include_all_commits=true&count_private=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" 
+      alt="Aakash's GitHub Stats" 
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+    <div style="display: none; padding: 20px; margin: 10px; border-radius: 6px; background: #2e2e2e; color: #fff;">
+      📊 Stats loading... <br/>
+      Check out my repositories to see my work!
+    </div>
+  </picture>
+
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source 
+      srcset="https://streak-stats.vercel.app/?user=aakashdinkarh&theme=radical&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.vercel.app/?user=aakashdinkarh&theme=default&hide_border=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.vercel.app/?user=aakashdinkarh&theme=radical&hide_border=false" 
+      alt="GitHub Streak" 
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+    <div style="display: none; padding: 20px; margin: 10px; border-radius: 6px; background: #2e2e2e; color: #fff;">
+      🔥 Streak stats loading... <br/>
+      View my contribution graph below!
+    </div>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdinkarh&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdinkarh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+      alt="Top Languages" 
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+    <div style="display: none; padding: 20px; margin: 10px; border-radius: 6px; background: #2e2e2e; color: #fff;">
+      📚 Language stats loading... <br/>
+      Explore my repositories to see the languages I work with!
+    </div>
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -86,5 +138,17 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aakashdinkarh&icon=5&color=6" alt="Visit Count" />
+  <picture>
+    <!-- Primary counter -->
+    <source srcset="https://hits.sh/github.com/aakashdinkarh.svg?view=today-total&label=Profile%20Views&color=F68B21" />
+    <!-- First fallback -->
+    <source srcset="https://komarev.com/ghpvc/?username=aakashdinkarh&color=F68B21&style=flat-square&label=Profile+Views" />
+    <!-- Second fallback -->
+    <source srcset="https://profile-counter.glitch.me/aakashdinkarh/count.svg" />
+    <img 
+      src="https://hits.sh/github.com/aakashdinkarh.svg?view=today-total&label=Profile%20Views&color=F68B21" 
+      alt="Profile Views"
+      onerror="this.insertAdjacentHTML('afterend', '<div style=\'padding: 10px; margin: 5px; border-radius: 4px; background: #2e2e2e; color: #fff; font-size: 14px;\'>👀 Thanks for visiting my profile!</div>'); this.style.display='none';"
+    />
+  </picture>
 </div>
